@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/feed.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://thought-lite.vercel.app/</id>
+    <title>ANR DATeS</title>
+    <updated>2026-01-08T16:25:12.078Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>R. Emonet</name>
+        <email>(see my website)</email>
+        <uri>https://home.heeere.com/</uri>
+    </author>
+    <link rel="alternate" href="https://thought-lite.vercel.app/"/>
+    <subtitle>Domain Adaptation for Time Series.</subtitle>
+    <logo>https://thought-lite.vercel.app/favicon-96x96.png</logo>
+    <icon>https://thought-lite.vercel.app/favicon.ico</icon>
+    <rights>CC BY-NC-ND 4.0 © 2026 R. Emonet</rights>
+    <entry>
+        <title type="html"><![CDATA[Project Metadata]]></title>
+        <id>en/project-metadata</id>
+        <link href="https://thought-lite.vercel.app/anr-dates/note/en/project-metadata"/>
+        <updated>2026-01-07T00:00:00.000Z</updated>
+        <category term="Metadata"/>
+        <category term="Project"/>
+    </entry>
+</feed>
