@@ -9,4 +9,4 @@ Disallow: /cdn-cgi
 User-agent: *
 Disallow: /
 
-Sitemap: https://thought-lite.vercel.app/sitemap-index.xml
+Sitemap: https://twitwi.github.io/anr-dates/sitemap-index.xml

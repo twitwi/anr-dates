@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="/feed.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://thought-lite.vercel.app/</id>
+    <id>https://twitwi.github.io/anr-dates/</id>
     <title>ANR DATeS</title>
-    <updated>2026-01-08T17:51:24.309Z</updated>
+    <updated>2026-01-08T21:20:00.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>R. Emonet</name>
         <email>(see my website)</email>
         <uri>https://home.heeere.com/</uri>
     </author>
-    <link rel="alternate" href="https://thought-lite.vercel.app/"/>
+    <link rel="alternate" href="https://twitwi.github.io/anr-dates/"/>
     <subtitle>Domain Adaptation for Time Series.</subtitle>
-    <logo>https://thought-lite.vercel.app/favicon-96x96.png</logo>
-    <icon>https://thought-lite.vercel.app/favicon.ico</icon>
+    <logo>https://twitwi.github.io/anr-dates/favicon-96x96.png</logo>
+    <icon>https://twitwi.github.io/anr-dates/favicon.ico</icon>
     <rights>CC BY-NC-ND 4.0 © 2026 R. Emonet</rights>
     <entry>
         <title type="html"><![CDATA[Project Metadata]]></title>
         <id>en/project-metadata</id>
-        <link href="https://thought-lite.vercel.app/anr-dates/note/en/project-metadata"/>
+        <link href="https://twitwi.github.io/anr-dates/note/en/project-metadata"/>
         <updated>2026-01-07T00:00:00.000Z</updated>
         <category term="Metadata"/>
         <category term="Project"/>
