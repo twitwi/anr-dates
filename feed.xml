@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://twitwi.github.io/anr-dates/</id>
     <title>ANR DATeS</title>
-    <updated>2026-01-08T21:20:00.129Z</updated>
+    <updated>2026-01-12T08:44:01.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>R. Emonet</name>
@@ -20,7 +20,20 @@
         <id>en/project-metadata</id>
         <link href="https://twitwi.github.io/anr-dates/note/en/project-metadata"/>
         <updated>2026-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>Kick off date : 22<sup>nd</sup> of January, 2026</li>
+<li>Duration : 48 months</li>
+</ul>]]></content>
         <category term="Metadata"/>
         <category term="Project"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFM blogpost for ICLR 2025]]></title>
+        <id>en/intro-cfm-blogpost-iclr2025</id>
+        <link href="https://twitwi.github.io/anr-dates/jotting/en/intro-cfm-blogpost-iclr2025"/>
+        <updated>2025-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://dl.heeere.com/cfm/" rel="nofollow noopener noreferrer" target="_blank">https://dl.heeere.com/cfm/</a></p>]]></content>
+        <category term="Link"/>
+        <category term="Ours"/>
     </entry>
 </feed>
